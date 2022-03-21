@@ -1,6 +1,6 @@
  👋 Hello World ! 
  <hr>
-  Je me présente Pire Yohan ,35ans . En reconversion depuis 2020 comment dév . J'ai suivi un cursurs Dév Java pendant un an avec un stage de plusieurs mois chez L3i.
+  Je me présente Pire Yohan ,35ans . En reconversion depuis 2020 comme dév . J'ai suivi un cursurs Dév Java pendant un an avec un stage de plusieurs mois chez L3i.
   Actuellement je suis étudiant développeur blockchain au sein de l'école Alyra jusque Mai 2022
 <hr>
 
